@@ -28,3 +28,6 @@ File.open('input.txt').read.split("\n").select { |word|
   ![ /([a-z])\1/, /[aeiou].*[aeiou].*[aeiou]/, /^((?!ab).)*$/, /^((?!cd).)*$/, /^((?!pq).)*$/, /^((?!xy).)*$/ ].map { |r| r.match(word) ? true : false }.include?(false)
 }.length
 ````
+
+- - -
+[1](day01.md), [2](day02.md), [3](day03.md), [4](day04.md), [5](day05.md), [6](day06.md)

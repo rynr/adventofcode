@@ -11,3 +11,6 @@ File.open("input.txt").read.split("\n").map { |row|
   areas.min + areas.inject(0) {|s,e| s+e*2}
 }.inject(0, :+)
 ````
+
+- - -
+[1](day01.md), [2](day02.md), [3](day03.md), [4](day04.md), [5](day05.md), [6](day06.md)

@@ -25,3 +25,6 @@ File.open('input.txt').read.split('').inject({'0,0' => 1}) { |r,e|
 
 Java streams should give some funktionality like this, I should try that in one
 of the next tasks.
+
+- - -
+[1](day01.md), [2](day02.md), [3](day03.md), [4](day04.md), [5](day05.md), [6](day06.md)
