@@ -28,4 +28,4 @@ puts numbers.combination(2).filter { |a| a.sum == 2020 }.map { |a| a.inject(:*) 
 ```
 
 - - -
-[1](day01.md)
+1, [2](day02.md)
