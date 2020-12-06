@@ -15,4 +15,4 @@ If you what to participate please register at http://adventofcode.com/
 
 2020
 ----
-[1](2020/day01.md), [2](2020/day02.md), [3](2020/day03.md), [4](2020/day04.md), [5](2020/day05.md)
+[1](2020/day01.md), [2](2020/day02.md), [3](2020/day03.md), [4](2020/day04.md), [5](2020/day05.md), [6](2020/day06.md)
