@@ -37,4 +37,4 @@ puts File.read(ARGV[0]).split("\n").filter { |line|
 ```
 
 - - -
-[1](day01.md), 2, [3](day03.md), [4](day04.md), [5](day05.md), [6](day06md)
+[1](day01.md), 2, [3](day03.md), [4](day04.md), [5](day05.md), [6](day06.md), [7](day07.md)
