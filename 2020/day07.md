@@ -57,4 +57,4 @@ This is mainly the same, I get the number and increase it with recursive calls.
 ```
 
 - - -
-[1](day01.md), [2](day02.md), [3](day03.md), [4](day04.md), [5](day05.md), [6](day06.md), 7
+[1](day01.md), [2](day02.md), [3](day03.md), [4](day04.md), [5](day05.md), [6](day06.md), 7, [8](day08.md)
