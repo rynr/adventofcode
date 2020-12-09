@@ -35,4 +35,4 @@ input.split("\n\n").map(&:chomp).map { |e| e.split("\n").map { |s| s.split(//) }
 ```
 
 - - -
-[1](day01.md), [2](day02.md), [3](day03.md), [4](day04.md), [5](day05.md), 6, [7](day07.md), [8](day08.md)
+[1](day01.md), [2](day02.md), [3](day03.md), [4](day04.md), [5](day05.md), 6, [7](day07.md), [8](day08.md), [9](day09.md)
