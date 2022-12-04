@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# https://adventofcode.com/2022/day/4
+#
 # The trick I use is to not just use the values, but to retrieve all the
 # sections from the puzzle input. Then the `&` operator on
 # [Array](https://ruby-doc.org/current/Array.html) returns all intersecting

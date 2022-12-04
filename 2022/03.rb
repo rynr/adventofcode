@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# https://adventofcode.com/2022/day/4
+
 # Adding the method `halves` to `String` to split it in two halfes
 class String
   def halves

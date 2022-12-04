@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# https://adventofcode.com/2022/day/2
+
 # [["A", "Y"], ["B", "X"], ["C", "Z"]]
 input = (ARGV.empty? ? DATA : ARGF).read.split(/\n/).map { |a| a.split(/ /) }
 

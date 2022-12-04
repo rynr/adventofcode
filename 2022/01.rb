@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# https://adventofcode.com/2022/day/1
+
 # [[1000, 2000, 3000], [4000], [5000, 6000], [7000, 8000, 9000], [10000]]
 input = (ARGV.empty? ? DATA : ARGF).read.split(/\n\n/).map { |a| a.split(/\n/).map(&:to_i) }
 
