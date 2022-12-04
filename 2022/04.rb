@@ -16,11 +16,8 @@ input = (ARGV.empty? ? DATA : ARGF).readlines
                           .map(&:to_i) }
               .map { |d| (d[0]..d[1]).to_a } } # Convert to range and array
 
-solution1 = input.filter { |a, b| [a, b].include?(a & b) }.size
-solution2 = input.filter { |a, b| (a & b).any? }.size
-
-puts "Solution 1: #{solution1}"
-puts "Solution 2: #{solution2}"
+puts "Solution 1: #{input.filter { |a, b| [a, b].include?(a & b) }.size}"
+puts "Solution 2: #{input.filter { |a, b| (a & b).any? }.size}"
 
 __END__
 2-4,6-8
